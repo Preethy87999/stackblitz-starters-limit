@@ -26,15 +26,17 @@ padding-bottom: 25px;
 
 }
 #img1{
-/* width: 135px;
-height: 102.5px; */
 margin-top: 35px;
 margin-left: 69px;
 }
-#body nav{
-  border: hidden;
-}
 
+
+span{
+  border: 1px solid black;
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
 
 
 #imges{
@@ -321,10 +323,11 @@ nav a {
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
-  border: solid 1px #aaa;
+  
   text-align: center;
   text-decoration: none;
-  color: #555;
+  color: #343434;
+
 }
 
 nav a[aria-current='page'] {
@@ -672,6 +675,10 @@ text-align: left;
 color: #272727;
 
 }
+input{
+  border:hidden;
+  
+}
 
 #bb1{
 
@@ -711,13 +718,24 @@ color: #343434;
 
 }
 
-#inline{
+#line{
+  width: 1796px;
+height: 0px;
+top: 9561px;
+left: 73px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #838383;
+padding-left: 605px;
+padding-top: 54px;
+padding-right: 677px;
+
+}
+
+#line p{
+  
   font-family: Poppins;
-font-size: 20px;
-font-weight: 400;
-line-height: 28px;
-text-align: center;
-font-family: Poppins;
 font-size: 20px;
 font-weight: 400;
 line-height: 28px;
@@ -732,6 +750,15 @@ color: #838383;
 
 }
 
+#de{
+  width: Hug (229px)px;
+height: Hug (200px)px;
+top: 9285px;
+left: 720px;
+gap: 16px;
+opacity: 0px;
+
+}
 
 #foot1{
   font-family: Futura Bk BT;
@@ -751,7 +778,7 @@ color: #838383;
   left: 1597px;
   gap: 0px;
   opacity: 0px;
-  background: #838383;
+ color: #838383;
 
 }
 
@@ -762,7 +789,7 @@ color: #838383;
   left: 1656.1px;
   gap: 0px;
   opacity: 0px;
-  background: #838383;
+  color: #838383;
 
 }
 
@@ -773,6 +800,7 @@ color: #838383;
   left: 1713.76px;
   gap: 0px;
   opacity: 0px;
-  background: #838383;
+  color: #838383;
 
 }
+
