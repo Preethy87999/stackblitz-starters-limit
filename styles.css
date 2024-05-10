@@ -380,5 +380,281 @@ line-height: 42px;
 letter-spacing: 0.8960000276565552px;
 text-align: left;
 color: #080808;
+}
+
+#innerborder{
+  width: 1926px;
+  height: 2636px;
+
+  top: 2283px;
+  left: 19px;
+  gap: 0px;
+  opacity: 0px;
+  background: #F0F8FF66;
+}
+
+#cont1{
+font-family: Futura Hv BT;
+font-size: 50px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #454545;
+
+
+}
+
+#cont2{
+  font-family: Futura Lt BT;
+font-size: 30px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #454545;
+
+}
+
+#cont3{
+  font-family: Futura Md BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: right;
+color: #343434;
+
+}
+
+#cont4{
+  font-family: Futura Hv BT;
+font-size: 40px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #343434;
+
+}
+
+#cont5{
+  font-family: Futura Lt BT;
+font-size: 24px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+
+color: #454545;
+
+}
+
+#acadamics{
+  width: 524px;
+  height: 251px;
+  gap: 0px;
+  opacity: 0px;
+}
+#acadamics im1{
+
+background: #C9E9EE;
+}
+
+#acadamics im2{
+  
+background: #D0EDFC;
+}
+
+
+#acadamics im3{
+background: #C9E9EE;
+}
+#schoolboardplate{
+  font-family: Futura Md BT;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: center;
+  color: #FFFFFF;
+
+}
+
+#sc2{
+  font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #FFFFFF;
+}
+
+#schoolboardplate button{
+  font-family: Futura Md BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: right;
+color: #343434;
+
+}
+
+#dis1{
+  font-family: Futura Md BT;
+font-size: 70px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #454545;
+
+}
+
+#dis2{
+  font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #454545;
+
+}
+
+#disim{
+  width: 85.16px;
+height: 86.61px;
+top: 4605.61px;
+left: 928px;
+gap: 0px;
+opacity: 0px;
+background: #E0E0E0;
+
+}
+
+#tes1{
+  font-family: Futura Md BT;
+font-size: 70px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #454545;
+
+}
+
+#tes2{
+  font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #454545;
+
+}
+
+#tes4{
+  font-family: Futura Lt BT;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  color: #454545;
+
+}
+#tes6{
+  font-family: Futura Bk BT;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  color: #454545;
+
+}
+
+#gal1{
+  font-family: Futura Hv BT;
+font-size: 30px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #454545;
+
+}
+#gal2{
+  font-family: Futura Lt BT;
+font-size: 20px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #454545;
+
+}
+
+#news button{
+  font-family: Futura Md BT;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: right;
+  color: #454545;
+
+}
+
+#in1{
+  font-family: Futura Md BT;
+font-size: 70px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #454545;
+
+}
+
+#in2{
+  font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #454545;
+
+}
+
+#en2{
+  width: 87.53px;
+height: 93.06px;
+top: 6906.06px;
+left: 927px;
+gap: 0px;
+opacity: 0px;
+background: #E0E0E0;
+
+}
+
+#det{
+  font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #272727;
 
 }
