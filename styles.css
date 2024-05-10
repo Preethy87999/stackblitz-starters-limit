@@ -31,12 +31,7 @@ margin-left: 69px;
 }
 
 
-span{
-  border: 1px solid black;
-  border-top: hidden;
-  border-left: hidden;
-  border-right: hidden;
-}
+
 
 
 #imges{
@@ -378,6 +373,7 @@ color: #838383;
 
 }
 #inner{
+  border:hidden;
   font-family: Futura Md BT;
 font-size: 50px;
 font-weight: 400;
@@ -662,23 +658,37 @@ opacity: 0px;
 background: #E0E0E0;
 
 }
-
-
 #det{
-
-  font-family: Futura Lt BT;
-font-size: 26px;
-font-weight: 400;
-line-height: 30px;
-letter-spacing: 0.8960000276565552px;
-text-align: left;
-color: #272727;
-
-}
-input{
-  border:hidden;
+  padding-left: 1020px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+    font-family: Futura Lt BT;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: left;
+  color: #272727;
   
-}
+  }
+  
+  
+  input{
+    border:hidden;
+    
+  }
+  
+  
+  
+  span{
+    border: 1px solid black;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+  }
+  
+
 
 #bb1{
 
